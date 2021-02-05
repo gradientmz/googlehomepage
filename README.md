@@ -1,2 +1,2 @@
 # googlehomepage
-A bad replica of the Google home page. 
+A simple replica of the Google home/search page that I made to practice using css!
